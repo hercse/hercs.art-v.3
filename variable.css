@@ -1,0 +1,12 @@
+:root {
+    /* Light */
+    --color-primary-light: #DCDCDC;
+    --color-secondary-light: #2c3625;
+    --color-tertiary-light: #aaa;
+    /* Dark */
+    --color-primary-dark: #2c3625;
+    --color-secondary-dark: #DCDCDC;
+    --color-tertiary-dark: #aaa;
+    --h4: calc(10px + 4vw);
+    --p: calc(8px + .5vw);
+}
